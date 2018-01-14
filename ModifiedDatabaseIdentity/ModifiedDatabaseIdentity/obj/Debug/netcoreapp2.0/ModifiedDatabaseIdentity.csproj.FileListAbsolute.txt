@@ -1,0 +1,11 @@
+C:\Users\gnetwork\source\repos\ModifiedDatabaseIdentity\ModifiedDatabaseIdentity\obj\Debug\netcoreapp2.0\ModifiedDatabaseIdentity.csproj.CoreCompileInputs.cache
+C:\Users\gnetwork\source\repos\ModifiedDatabaseIdentity\ModifiedDatabaseIdentity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\gnetwork\source\repos\ModifiedDatabaseIdentity\ModifiedDatabaseIdentity\obj\Debug\netcoreapp2.0\ModifiedDatabaseIdentity.AssemblyInfoInputs.cache
+C:\Users\gnetwork\source\repos\ModifiedDatabaseIdentity\ModifiedDatabaseIdentity\obj\Debug\netcoreapp2.0\ModifiedDatabaseIdentity.AssemblyInfo.cs
+C:\Users\gnetwork\source\repos\ModifiedDatabaseIdentity\ModifiedDatabaseIdentity\bin\Debug\netcoreapp2.0\ModifiedDatabaseIdentity.deps.json
+C:\Users\gnetwork\source\repos\ModifiedDatabaseIdentity\ModifiedDatabaseIdentity\bin\Debug\netcoreapp2.0\ModifiedDatabaseIdentity.runtimeconfig.json
+C:\Users\gnetwork\source\repos\ModifiedDatabaseIdentity\ModifiedDatabaseIdentity\bin\Debug\netcoreapp2.0\ModifiedDatabaseIdentity.runtimeconfig.dev.json
+C:\Users\gnetwork\source\repos\ModifiedDatabaseIdentity\ModifiedDatabaseIdentity\bin\Debug\netcoreapp2.0\ModifiedDatabaseIdentity.dll
+C:\Users\gnetwork\source\repos\ModifiedDatabaseIdentity\ModifiedDatabaseIdentity\bin\Debug\netcoreapp2.0\ModifiedDatabaseIdentity.pdb
+C:\Users\gnetwork\source\repos\ModifiedDatabaseIdentity\ModifiedDatabaseIdentity\obj\Debug\netcoreapp2.0\ModifiedDatabaseIdentity.dll
+C:\Users\gnetwork\source\repos\ModifiedDatabaseIdentity\ModifiedDatabaseIdentity\obj\Debug\netcoreapp2.0\ModifiedDatabaseIdentity.pdb
