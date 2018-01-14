@@ -13125,11 +13125,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\gnetwork\\source\\repos\\ModifiedDatabaseIdentity\\ModifiedDatabaseIdentity\\ModifiedDatabaseIdentity.csproj",
+      "projectUniqueName": "D:\\GITHUB\\REPOSITORIES\\ASP-CORE-2.0-CUSTOM-IDENTITY\\ModifiedDatabaseIdentity\\ModifiedDatabaseIdentity\\ModifiedDatabaseIdentity.csproj",
       "projectName": "ModifiedDatabaseIdentity",
-      "projectPath": "C:\\Users\\gnetwork\\source\\repos\\ModifiedDatabaseIdentity\\ModifiedDatabaseIdentity\\ModifiedDatabaseIdentity.csproj",
+      "projectPath": "D:\\GITHUB\\REPOSITORIES\\ASP-CORE-2.0-CUSTOM-IDENTITY\\ModifiedDatabaseIdentity\\ModifiedDatabaseIdentity\\ModifiedDatabaseIdentity.csproj",
       "packagesPath": "C:\\Users\\gnetwork\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gnetwork\\source\\repos\\ModifiedDatabaseIdentity\\ModifiedDatabaseIdentity\\obj\\",
+      "outputPath": "D:\\GITHUB\\REPOSITORIES\\ASP-CORE-2.0-CUSTOM-IDENTITY\\ModifiedDatabaseIdentity\\ModifiedDatabaseIdentity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
